@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,TVB 新聞台
+http://ye23.win/iptv/tvb.php?id=1
+#EXTINF:-1,TVB 財經資訊台
+http://ye23.win/iptv/tvb.php?id=2
+#EXTINF:-1,TVB 明珠台
+http://120.84.96.32:808/hls/26/index.m3u8
+#EXTINF:-1,TVB 星河台
+http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+#EXTINF:-1,TVB J2(备)
+https://live.hkanime.com.hk/xxxx/82/index.m3u8
+#EXTINF:-1,TVB 明珠台(备1)
+http://radius.8866.org:880/hls/84/index.m3u8
+#EXTINF:-1,TVB剧场
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1,TVB J2
+https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+#EXTINF:-1,TVB J2
+https://bf.kanjc.com/11666/11666.m3u8
+#EXTINF:-1,TVB J2 
+https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8#isVideo=true#
+#EXTINF:-1,TVB J2
+https://h.youtalk.top/hkj2b/49.m3u8
+#EXTINF:-1,TVBL
+https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+#EXTINF:-1,TVBRICS(ENG)
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1,TVBJ2
+https://h.youtalk.top/hkj2b/49.m3u8#https://bf.kanjc.com/11666/11666.m3u8#https://tx-b2.xsafetech.com/live/11666.m3u8
+#EXTINF:-1,TVB J2
+http://120.84.96.32:808/hls/86/index.m3u8
+#EXTINF:-1,TVB J2
+https://tx-b2.xsafetech.com/live/11666.m3u8
+#EXTINF:-1,TVB J2
+http://120.84.96.33:808/hls/86/index.m3u8
+#EXTINF:-1,TVB 明珠台
+http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1,TVB剧场
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8#@kdsvod://migu://631354620#@kdsvod://migu2://265667449
+#EXTINF:-1,MIGU TVB剧场
+http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1,MIGUTVB剧场
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1,看孙悟空唐三藏取西经 - TVB官方
+http://61.241.131.18/tx.rtmp.huya.com/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1, 看孙悟空唐三藏取西经 - TVB官方
+http://61.241.131.18/tx.rtmp.huya.com/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
