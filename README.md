@@ -1,2 +1,2 @@
 # iptv
-# personal iptv collection
+personal iptv collection
