@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TVB 新聞台
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1,TVB 新聞台(备)
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 #EXTINF:-1,TVB 財經資訊台
 http://ye23.win/iptv/tvb.php?id=2
 #EXTINF:-1,TVB 明珠台
