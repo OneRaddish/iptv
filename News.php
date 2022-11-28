@@ -23,11 +23,9 @@ if($id == 1 || $id == 3) {
     header('location:'.$json->sd);
 };
 /*
-    渴望U熊1 製作
     .php?id=0 無線新聞HD
     .php?id=1 無線新聞SD
     .php?id=2 無線財經HD
     .php?id=3 無線財經SD
-    QQ213906631 GeJI
 */
 ?>
