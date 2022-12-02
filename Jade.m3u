@@ -4,16 +4,7 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1,翡翠台
 http://113.64.147.10:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/tvbxw.png" group-title="港澳台",无线新闻台
-http://9.zhxinda.xyz/newss.php?id=1
-#https://github.com/OneRaddish/iptv/raw/main/News.php
-#EXTINF:-1,TVB 新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1670015230~exp=1670101630~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=9a898e2c3665ba35372b7095a600f70056cf60092d4ac6618ebb5515dbe31598&p=3139
-#EXTINF:-1,TVB 新聞台
-https://github.com/OneRaddish/iptv/raw/main/News.php
-#EXTINF:-1,TVB 新聞台
-http://ye23.win/iptv/tvb.php?id=5
-#EXTINF:-1,TVB 新聞台
-http://ye23.win/iptv/tvb.php?id=3
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1670016018~exp=1670102418~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=7865fee75632e866f001ede54e0fd2de0152b78f9cf0b253dccbbc08671056d3&p=3139
 #EXTINF:-1,TVB 新聞台(备)
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 #EXTINF:-1,TVB 新聞台
