@@ -14,7 +14,7 @@ http://baidu.douyincdn.freetvtv.com/jade2/index.m3u8
 #EXTINF:-1,翡翠台（测试）
 http://103.214.71.71:1631/zhiboyuandakatv.xyz/12345.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/tvbxw.png",无线新闻台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1670016018~exp=1670102418~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=7865fee75632e866f001ede54e0fd2de0152b78f9cf0b253dccbbc08671056d3&p=3139
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1670114691~exp=1670201091~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=f5adc6ae70cf30837cc330df7f97c806e80b7b141a0fd1e2c1325a2cae14abfd&p=3139
 #EXTINF:-1,TVB 新聞台(备)
 https://9.zhxinda.xyz/newss.php?id=1
 #EXTINF:-1,TVB 新聞台
